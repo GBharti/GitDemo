@@ -24,6 +24,8 @@ public class TestJenkins {
 				System.out.println(driver.getTitle());
 				System.out.println("changes made by second user");
 				//assertEquals("Google", driver.getTitle());
+				
+			
 				driver.quit();
   }
 }
