@@ -22,7 +22,7 @@ public class TestJenkins {
 				
 				driver.get("https://www.google.com/");
 				System.out.println(driver.getTitle());
-				
+				System.out.println("changes made by second user");
 				//assertEquals("Google", driver.getTitle());
 				driver.quit();
   }
