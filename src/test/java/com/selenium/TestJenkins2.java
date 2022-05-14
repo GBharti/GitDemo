@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 
 
-public class TestJenkins {
+public class TestJenkins2 {
   @Test
   public void testGoogleLaunch() {
 	  
@@ -24,8 +24,8 @@ public class TestJenkins {
 				System.out.println(driver.getTitle());
 				System.out.println("changes made by second user");
 				//assertEquals("Google", driver.getTitle());
-				
-			
 				driver.quit();
+  System.out.println("Here second test case added");
+  
   }
 }

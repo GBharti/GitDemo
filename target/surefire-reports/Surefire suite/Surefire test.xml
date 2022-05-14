@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite hostname="GAURAVBHA-LT" name="com.selenium.TestJenkins" tests="1" failures="0" timestamp="3 Feb 2022 08:27:33 GMT" time="9.938" errors="0">
-  <testcase name="testGoogleLaunch" time="9.935" classname="com.selenium.TestJenkins"/>
-</testsuite>
