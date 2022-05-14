@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9938" started-at="2022-02-03T13:57:23Z" finished-at="2022-02-03T13:57:33Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9938" started-at="2022-02-03T13:57:23Z" finished-at="2022-02-03T13:57:33Z">
+      <class name="com.selenium.TestJenkins">
+        <test-method status="PASS" signature="testGoogleLaunch()" name="testGoogleLaunch" duration-ms="9935" started-at="2022-02-03T13:57:23Z" finished-at="2022-02-03T13:57:33Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
