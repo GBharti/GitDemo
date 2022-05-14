@@ -25,7 +25,7 @@ public class TestJenkins {
 				
 				//assertEquals("Google", driver.getTitle());
 				
-			System.out.println("test cahnges made");
+			
 				driver.quit();
   }
 }
